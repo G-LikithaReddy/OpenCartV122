@@ -1,0 +1,27 @@
+2024-07-27 13:13:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\likit\workspaces\OpenCartV122\master.xml"
+2024-07-27 13:13:09 INFO  TC001_AccountRegistrationTest:19 - ***Starting TC001_AccountRegistrationTest***
+2024-07-27 13:13:10 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount link
+2024-07-27 13:13:10 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2024-07-27 13:13:10 INFO  TC001_AccountRegistrationTest:32 - Providing Customer details...
+2024-07-27 13:13:11 INFO  TC001_AccountRegistrationTest:46 - Validating expected message...
+2024-07-27 13:13:11 INFO  TC001_AccountRegistrationTest:67 - ***Finished TC001_AccountRegistrationTest***
+2024-07-27 13:13:14 INFO  TC002_LoginTest:16 - *** Starting TC002_LoginTest ***
+2024-07-27 13:13:15 INFO  TC002_LoginTest:43 - *** Finished TC002_LoginTest ***
+2024-07-27 13:31:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\likit\workspaces\OpenCartV122\master.xml"
+2024-07-27 13:31:11 INFO  TC001_AccountRegistrationTest:19 - ***Starting TC001_AccountRegistrationTest***
+2024-07-27 13:31:12 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount link
+2024-07-27 13:31:12 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2024-07-27 13:31:12 INFO  TC001_AccountRegistrationTest:32 - Providing Customer details...
+2024-07-27 13:31:14 INFO  TC001_AccountRegistrationTest:46 - Validating expected message...
+2024-07-27 13:31:14 INFO  TC001_AccountRegistrationTest:67 - ***Finished TC001_AccountRegistrationTest***
+2024-07-27 13:31:16 INFO  TC002_LoginTest:16 - *** Starting TC002_LoginTest ***
+2024-07-27 13:31:18 INFO  TC002_LoginTest:43 - *** Finished TC002_LoginTest ***
+2024-07-27 13:42:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\likit\workspaces\OpenCartV122\master.xml"
+2024-07-27 13:42:27 INFO  TC001_AccountRegistrationTest:19 - ***Starting TC001_AccountRegistrationTest***
+2024-07-27 13:42:28 INFO  TC001_AccountRegistrationTest:25 - Clicked on MyAccount link
+2024-07-27 13:42:28 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2024-07-27 13:42:28 INFO  TC001_AccountRegistrationTest:32 - Providing Customer details...
+2024-07-27 13:42:30 INFO  TC001_AccountRegistrationTest:46 - Validating expected message...
+2024-07-27 13:42:30 INFO  TC001_AccountRegistrationTest:67 - ***Finished TC001_AccountRegistrationTest***
+2024-07-27 13:42:32 INFO  TC002_LoginTest:16 - *** Starting TC002_LoginTest ***
+2024-07-27 13:42:33 INFO  TC002_LoginTest:43 - *** Finished TC002_LoginTest ***
